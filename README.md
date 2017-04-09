@@ -1,12 +1,5 @@
 
-![intro](http://i.imgur.com/RgGlNpQ.jpg)
-
-# Red - A fully customizable Discord bot
-#### *Music, admin, trivia, fun commands and much more!*
-[<img src="https://img.shields.io/badge/Support-me!-orange.svg">](https://www.patreon.com/Twentysix26)  [<img src="https://img.shields.io/badge/discord-py-blue.svg">](https://github.com/Rapptz/discord.py) [<img src="https://discordapp.com/api/guilds/133049272517001216/widget.png?style=shield">](https://discord.gg/red) [![Build Status](https://travis-ci.org/Twentysix26/Red-DiscordBot.svg?branch=develop)](https://travis-ci.org/Twentysix26/Red-DiscordBot)
-
-> **Red** is a fully modular bot which comes with sets of features/commands that can be enabled/disabled to your liking, making it customizable exactly how you want.  
-You can turn Red into a trivia bot, an admin bot, a music bot (...) or all of these together.  
+Jeffrey the brown whale is a good bot. He was made thanks to the Red bot, all credit for the initial base programming goes to them, I am just building off their amazing work.
 
 The default set of modules includes and it's not limited to:
 * Moderation features (kick/ban/softban, filters, mod-log...)
